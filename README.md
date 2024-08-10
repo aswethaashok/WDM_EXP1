@@ -57,10 +57,10 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
- Employee:
+ ## Employee:
  ![Screenshot 2024-08-10 192200](https://github.com/user-attachments/assets/dbd57b58-43a5-4ac8-99c6-c57f822ade5e)
 
-Weather:
+## Weather:
 
 ![Screenshot 2024-08-10 192247](https://github.com/user-attachments/assets/444ff6e0-4dfa-4a38-8cd6-21874cb01cd5)
 
@@ -85,10 +85,10 @@ Weather:
 
 ### OUTPUT:
 
-Employee:
+## Employee:
 ![Screenshot 2024-08-10 192337](https://github.com/user-attachments/assets/e3a087d3-78a6-48f2-b825-b50cabd7e7bc)
 
-Weather:
+## Weather:
 ![Screenshot 2024-08-10 192400](https://github.com/user-attachments/assets/93b4e5ac-79a8-4f4e-9bcd-db00b730bc0b)
 
 
@@ -108,10 +108,10 @@ Weather:
 
 ### OUTPUT:
 
-Employee:
+## Employee:
 ![Screenshot 2024-08-10 192527](https://github.com/user-attachments/assets/48494743-3c4c-4bab-af08-0e5b425e0a75)
 
-Weather:
+## Weather:
 
 ![Screenshot 2024-08-10 192549](https://github.com/user-attachments/assets/281c8c92-a7b1-480f-aa56-d70185a88ba0)
 
@@ -132,10 +132,10 @@ Weather:
 
 ### OUTPUT:
 
-Employee:
+## Employee:
 ![Screenshot 2024-08-10 192632](https://github.com/user-attachments/assets/906d34a0-04da-47e5-adef-a9f5386d6944)
 
-Weather:
+## Weather:
 ![Screenshot 2024-08-10 192659](https://github.com/user-attachments/assets/33916d03-1616-48ee-a9b3-6f97a363b998)
 
 
